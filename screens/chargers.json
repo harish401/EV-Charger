@@ -1,0 +1,57 @@
+{
+    "chargers": [
+      {
+        "name": "Expressway Charging - Mariam Enterprise",
+        "id": "a001",
+        "address": "Connaught Place, Delhi",
+        "distance": "2.1",
+        "distance_metrics": "km",
+        "latitude": "28.634010",
+        "longitude": "77.219783",
+        "connector_types": [
+            {
+            "type": "level1dc-2",
+            "icon": "https://cdn-icons-png.flaticon.com/128/37/37905.png",
+            "FastCharge":"15KW Fast Charging"
+            },
+            {
+            "type": "level2dc-1",
+            "icon": "https://cdn-icons-png.flaticon.com/128/37/37905.png",
+            "FastCharge":"50KW Fast Charging"
+            },
+            {
+            "type": "normalac-1",
+            "icon": "https://cdn-icons-png.flaticon.com/128/37/37905.png",
+            "FastCharge":"3KW Fast Charging"
+            }
+            ]
+           
+      },
+      {
+        "name": "FastCharge Inc",
+        "id": "a002",
+        "address": "Sector 29, Gurgaon",
+        "distance": "500",
+        "distance_metrics": "metres",
+        "latitude": "28.466309",
+        "longitude": "77.038963",
+        "connector_types": [
+            {
+            "type": "level1dc-2",
+            "icon": "https://cdn-icons-png.flaticon.com/128/37/37905.png",
+            "FastCharge":"15KW Fast Charging"
+            },
+            {
+            "type": "level2dc-1",
+            "icon": "https://cdn-icons-png.flaticon.com/128/37/37905.png",
+            "FastCharge":"50KW Fast Charging"
+            },
+            {
+            "type": "normalac-1",
+            "icon": "https://cdn-icons-png.flaticon.com/128/37/37905.png",
+            "FastCharge":"3KW Fast Charging"
+            }
+            ]
+      }
+    ]
+  }
